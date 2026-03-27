@@ -11,15 +11,15 @@ SRC = ROOT / "src"
 if str(SRC) not in sys.path:
     sys.path.insert(0, str(SRC))
 
-from catalog_assistant.assistant import CoursePlanningAssistant
-from catalog_assistant.evaluation import ensure_sample_data
-from catalog_assistant.models import StudentProfile
-from catalog_assistant.utils import read_json
+from src.catalog_assistant.assistant import CoursePlanningAssistant
+from src.catalog_assistant.evaluation import ensure_sample_data
+from src.catalog_assistant.models import StudentProfile
+from src.catalog_assistant.utils import read_json
 
 
 st.set_page_config(page_title="Catalog Course Planner", layout="wide")
 st.title("Catalog-Grounded Course Planning Assistant")
-st.caption("Purple Merit Assessment 1 demo using the UT Dallas 2025 undergraduate catalog.")
+st.caption("Demo using the UT Dallas 2025 undergraduate catalog.")
 
 ensure_sample_data()
 assistant = CoursePlanningAssistant.create()
