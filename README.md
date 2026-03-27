@@ -1,6 +1,6 @@
 ﻿# Catalog-Grounded Course Planning Assistant
 
-Purple Merit Assessment 1 implementation for a prerequisite and term-planning assistant grounded in the UT Dallas 2025 undergraduate catalog.
+Prerequisite and term-planning assistant grounded in the UT Dallas 2025 undergraduate catalog.
 
 ## What this project does
 
