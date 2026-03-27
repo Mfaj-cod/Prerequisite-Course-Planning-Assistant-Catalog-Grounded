@@ -1,0 +1,44 @@
+{
+  "catalog_year": "2025",
+  "target_program": "software-engineering",
+  "target_term": "Spring",
+  "max_courses": 4,
+  "max_credits": 12,
+  "completed_courses": [
+    {
+      "code": "CS 1200"
+    },
+    {
+      "code": "CS 1337",
+      "grade": "A"
+    },
+    {
+      "code": "CS 2305",
+      "grade": "B"
+    },
+    {
+      "code": "CS 2336",
+      "grade": "B"
+    },
+    {
+      "code": "ECS 2390"
+    },
+    {
+      "code": "SE 3306",
+      "grade": "B"
+    },
+    {
+      "code": "SE 3341",
+      "grade": "B"
+    },
+    {
+      "code": "SE 3345",
+      "grade": "B"
+    },
+    {
+      "code": "SE 3354",
+      "grade": "A"
+    }
+  ],
+  "in_progress_courses": []
+}

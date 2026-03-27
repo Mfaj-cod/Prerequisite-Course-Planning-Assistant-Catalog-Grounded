@@ -1,0 +1,105 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Length 2451 >>
+stream
+BT
+/F1 10 Tf
+12 TL
+40 800 Td
+(Purple Merit Assessment 1: Short Write-Up) Tj
+T*
+() Tj
+T*
+(Chosen catalog / institution: The University of Texas at Dallas, 2025 Undergraduate Catalog.) Tj
+T*
+(Corpus: 4 program/policy pages plus 37 curated CS/SE/ECS course pages. Accessed: 2026-03-27.) Tj
+T*
+(Key sources:) Tj
+T*
+(  - https://catalog.utdallas.edu/2025/undergraduate/programs/ecs/computer-science) Tj
+T*
+(  - https://catalog.utdallas.edu/2025/undergraduate/programs/ecs/software-engineering) Tj
+T*
+(  - https://catalog.utdallas.edu/2025/undergraduate/policies/academic) Tj
+T*
+(  - https://catalog.utdallas.edu/2025/undergraduate/policies/degree-plans) Tj
+T*
+() Tj
+T*
+(Architecture overview:) Tj
+T*
+(HTML catalog -> normalization/section extraction -> section-aware chunking ->) Tj
+T*
+(BAAI/bge-small-en-v1.5 embeddings -> Chroma -> retrieval + symbolic prerequisite evaluator ->) Tj
+T*
+(Groq-backed drafting. Symbolic logic makes the eligibility/plan decision; the LLM explains it.) Tj
+T*
+() Tj
+T*
+(Chunking / retrieval choices and tradeoffs:) Tj
+T*
+(Section-preserving chunks are ~800 token-equivalent units with ~120-token overlap so) Tj
+T*
+(prerequisite, grade, and co-requisite wording stay intact. Retrieval uses similarity search) Tj
+T*
+(\(k=8\) and keeps a smaller cited set for the final answer. Tradeoff: abstention cases protect) Tj
+T*
+(grounding but reduce overall citation coverage because unsupported questions return no claim.) Tj
+T*
+() Tj
+T*
+(Prompts / agent roles \(high level\):) Tj
+T*
+(Intake/Router asks clarifying questions when key profile fields are missing. Catalog Retriever) Tj
+T*
+(pulls evidence only. Planner/Responder combines retrieved evidence with symbolic checks to) Tj
+T*
+(produce prerequisite decisions or next-term plans. Verifier blocks unsupported claims and) Tj
+T*
+(enforces abstention when the answer is not in the catalog.) Tj
+T*
+() Tj
+T*
+(Evaluation summary: 25 queries \(10 prerequisite checks, 5 multi-hop chains, 5 program-rule,) Tj
+T*
+(5 not-in-docs\). Results: citation coverage 80.0%, eligibility) Tj
+T*
+(correctness 86.67%, abstention accuracy 100%.) Tj
+T*
+() Tj
+T*
+(Key failure modes / next improvements:) Tj
+T*
+(The planner models major buckets well, but not the full university core or every advisor) Tj
+T*
+(exception path. Next steps: richer symbolic parsing for substitutions/waivers/standing,) Tj
+T*
+(stronger reranking, broader degree-audit coverage, and a deeper multi-term curriculum graph.) Tj
+ET
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000000311 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+2814
+%%EOF

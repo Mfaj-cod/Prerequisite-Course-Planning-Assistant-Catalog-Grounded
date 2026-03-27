@@ -1,0 +1,1319 @@
+[
+  {
+    "id": "p01",
+    "category": "prereq_check",
+    "student_profile": {
+      "catalog_year": "2025",
+      "target_program": "computer-science",
+      "target_term": "Fall",
+      "max_courses": 4,
+      "max_credits": 12,
+      "completed_courses": [
+        {
+          "code": "CS 1200",
+          "grade": null,
+          "transfer": false
+        },
+        {
+          "code": "CS 1337",
+          "grade": "A",
+          "transfer": false
+        },
+        {
+          "code": "CS 2305",
+          "grade": "B",
+          "transfer": false
+        },
+        {
+          "code": "CS 2336",
+          "grade": "B",
+          "transfer": false
+        },
+        {
+          "code": "CS 2340",
+          "grade": "B",
+          "transfer": false
+        },
+        {
+          "code": "ECS 2390",
+          "grade": null,
+          "transfer": false
+        },
+        {
+          "code": "CS 3341",
+          "grade": "B",
+          "transfer": false
+        },
+        {
+          "code": "CS 3345",
+          "grade": "B",
+          "transfer": false
+        },
+        {
+          "code": "CS 3377",
+          "grade": "B",
+          "transfer": false
+        }
+      ],
+      "in_progress_courses": []
+    },
+    "user_query": "Can I take CS 4347 next term?",
+    "expected_decision": "Eligible",
+    "expected_abstain": false,
+    "required_courses_or_rules": []
+  },
+  {
+    "id": "p02",
+    "category": "prereq_check",
+    "student_profile": {
+      "catalog_year": "2025",
+      "target_program": "computer-science",
+      "target_term": "Fall",
+      "max_courses": 4,
+      "max_credits": 12,
+      "completed_courses": [
+        {
+          "code": "CS 1200",
+          "grade": null,
+          "transfer": false
+        },
+        {
+          "code": "CS 1337",
+          "grade": "A",
+          "transfer": false
+        },
+        {
+          "code": "CS 2305",
+          "grade": "B",
+          "transfer": false
+        },
+        {
+          "code": "CS 2336",
+          "grade": "B",
+          "transfer": false
+        },
+        {
+          "code": "CS 2340",
+          "grade": "B",
+          "transfer": false
+        },
+        {
+          "code": "ECS 2390",
+          "grade": null,
+          "transfer": false
+        },
+        {
+          "code": "CS 3341",
+          "grade": "B",
+          "transfer": false
+        },
+        {
+          "code": "CS 3345",
+          "grade": "B",
+          "transfer": false
+        },
+        {
+          "code": "CS 3377",
+          "grade": "B",
+          "transfer": false
+        }
+      ],
+      "in_progress_courses": []
+    },
+    "user_query": "Can I take CS 4348 next term?",
+    "expected_decision": "Eligible",
+    "expected_abstain": false,
+    "required_courses_or_rules": []
+  },
+  {
+    "id": "p03",
+    "category": "prereq_check",
+    "student_profile": {
+      "catalog_year": "2025",
+      "target_program": "computer-science",
+      "target_term": "Fall",
+      "max_courses": 4,
+      "max_credits": 12,
+      "completed_courses": [
+        {
+          "code": "CS 1200",
+          "grade": null,
+          "transfer": false
+        },
+        {
+          "code": "CS 1337",
+          "grade": "A",
+          "transfer": false
+        },
+        {
+          "code": "CS 2305",
+          "grade": "B",
+          "transfer": false
+        },
+        {
+          "code": "CS 2336",
+          "grade": "B",
+          "transfer": false
+        },
+        {
+          "code": "CS 2340",
+          "grade": "B",
+          "transfer": false
+        },
+        {
+          "code": "ECS 2390",
+          "grade": null,
+          "transfer": false
+        },
+        {
+          "code": "CS 3341",
+          "grade": "B",
+          "transfer": false
+        },
+        {
+          "code": "CS 3345",
+          "grade": "B",
+          "transfer": false
+        },
+        {
+          "code": "CS 3377",
+          "grade": "B",
+          "transfer": false
+        }
+      ],
+      "in_progress_courses": []
+    },
+    "user_query": "Can I take CS 4349?",
+    "expected_decision": "Eligible",
+    "expected_abstain": false,
+    "required_courses_or_rules": []
+  },
+  {
+    "id": "p04",
+    "category": "prereq_check",
+    "student_profile": {
+      "catalog_year": "2025",
+      "target_program": "computer-science",
+      "target_term": "Fall",
+      "max_courses": 4,
+      "max_credits": 12,
+      "completed_courses": [
+        {
+          "code": "CS 1200",
+          "grade": null,
+          "transfer": false
+        },
+        {
+          "code": "CS 1337",
+          "grade": "A",
+          "transfer": false
+        },
+        {
+          "code": "CS 2305",
+          "grade": "B",
+          "transfer": false
+        },
+        {
+          "code": "CS 2336",
+          "grade": "B",
+          "transfer": false
+        },
+        {
+          "code": "CS 2340",
+          "grade": "B",
+          "transfer": false
+        },
+        {
+          "code": "ECS 2390",
+          "grade": null,
+          "transfer": false
+        },
+        {
+          "code": "CS 3341",
+          "grade": "B",
+          "transfer": false
+        },
+        {
+          "code": "CS 3345",
+          "grade": "B",
+          "transfer": false
+        },
+        {
+          "code": "CS 3377",
+          "grade": "B",
+          "transfer": false
+        }
+      ],
+      "in_progress_courses": []
+    },
+    "user_query": "Can I take CS 4384?",
+    "expected_decision": "Eligible",
+    "expected_abstain": false,
+    "required_courses_or_rules": []
+  },
+  {
+    "id": "p05",
+    "category": "prereq_check",
+    "student_profile": {
+      "catalog_year": "2025",
+      "target_program": "computer-science",
+      "target_term": "Fall",
+      "max_courses": 4,
+      "max_credits": 12,
+      "completed_courses": [
+        {
+          "code": "CS 1200",
+          "grade": null,
+          "transfer": false
+        },
+        {
+          "code": "CS 1337",
+          "grade": "A",
+          "transfer": false
+        },
+        {
+          "code": "CS 2305",
+          "grade": "B",
+          "transfer": false
+        },
+        {
+          "code": "CS 2336",
+          "grade": "B",
+          "transfer": false
+        },
+        {
+          "code": "CS 2340",
+          "grade": "B",
+          "transfer": false
+        },
+        {
+          "code": "ECS 2390",
+          "grade": null,
+          "transfer": false
+        },
+        {
+          "code": "CS 3341",
+          "grade": "B",
+          "transfer": false
+        },
+        {
+          "code": "CS 3345",
+          "grade": "B",
+          "transfer": false
+        },
+        {
+          "code": "CS 3377",
+          "grade": "B",
+          "transfer": false
+        }
+      ],
+      "in_progress_courses": []
+    },
+    "user_query": "Can I take CS 4375?",
+    "expected_decision": "Eligible",
+    "expected_abstain": false,
+    "required_courses_or_rules": []
+  },
+  {
+    "id": "p06",
+    "category": "prereq_check",
+    "student_profile": {
+      "catalog_year": "2025",
+      "target_program": "computer-science",
+      "target_term": "Fall",
+      "max_courses": 4,
+      "max_credits": 12,
+      "completed_courses": [
+        {
+          "code": "CS 1200",
+          "grade": null,
+          "transfer": false
+        },
+        {
+          "code": "CS 1337",
+          "grade": "B",
+          "transfer": false
+        },
+        {
+          "code": "CS 2305",
+          "grade": "B",
+          "transfer": false
+        }
+      ],
+      "in_progress_courses": []
+    },
+    "user_query": "Can I take CS 3345?",
+    "expected_decision": "Not eligible",
+    "expected_abstain": false,
+    "required_courses_or_rules": []
+  },
+  {
+    "id": "p07",
+    "category": "prereq_check",
+    "student_profile": {
+      "catalog_year": "2025",
+      "target_program": "computer-science",
+      "target_term": "Fall",
+      "max_courses": 4,
+      "max_credits": 12,
+      "completed_courses": [
+        {
+          "code": "CS 1200",
+          "grade": null,
+          "transfer": false
+        },
+        {
+          "code": "CS 1337",
+          "grade": "B",
+          "transfer": false
+        },
+        {
+          "code": "CS 2305",
+          "grade": "B",
+          "transfer": false
+        }
+      ],
+      "in_progress_courses": []
+    },
+    "user_query": "Can I take CS 3354?",
+    "expected_decision": "Not eligible",
+    "expected_abstain": false,
+    "required_courses_or_rules": []
+  },
+  {
+    "id": "p08",
+    "category": "prereq_check",
+    "student_profile": {
+      "catalog_year": "2025",
+      "target_program": "computer-science",
+      "target_term": "Fall",
+      "max_courses": 4,
+      "max_credits": 12,
+      "completed_courses": [
+        {
+          "code": "CS 1200",
+          "grade": null,
+          "transfer": false
+        },
+        {
+          "code": "CS 1337",
+          "grade": "B",
+          "transfer": false
+        },
+        {
+          "code": "CS 2305",
+          "grade": "B",
+          "transfer": false
+        }
+      ],
+      "in_progress_courses": []
+    },
+    "user_query": "Can I take CS 4347?",
+    "expected_decision": "Not eligible",
+    "expected_abstain": false,
+    "required_courses_or_rules": []
+  },
+  {
+    "id": "p09",
+    "category": "prereq_check",
+    "student_profile": {
+      "catalog_year": "2025",
+      "target_program": "software-engineering",
+      "target_term": "Spring",
+      "max_courses": 4,
+      "max_credits": 12,
+      "completed_courses": [
+        {
+          "code": "CS 1200",
+          "grade": null,
+          "transfer": false
+        },
+        {
+          "code": "CS 1337",
+          "grade": "A",
+          "transfer": false
+        },
+        {
+          "code": "CS 2305",
+          "grade": "B",
+          "transfer": false
+        },
+        {
+          "code": "CS 2336",
+          "grade": "B",
+          "transfer": false
+        },
+        {
+          "code": "ECS 2390",
+          "grade": null,
+          "transfer": false
+        },
+        {
+          "code": "SE 3306",
+          "grade": "B",
+          "transfer": false
+        },
+        {
+          "code": "SE 3341",
+          "grade": "B",
+          "transfer": false
+        },
+        {
+          "code": "SE 3345",
+          "grade": "B",
+          "transfer": false
+        },
+        {
+          "code": "SE 3354",
+          "grade": "A",
+          "transfer": false
+        }
+      ],
+      "in_progress_courses": []
+    },
+    "user_query": "Can I take SE 4347?",
+    "expected_decision": "Eligible",
+    "expected_abstain": false,
+    "required_courses_or_rules": []
+  },
+  {
+    "id": "p10",
+    "category": "prereq_check",
+    "student_profile": {
+      "catalog_year": "2025",
+      "target_program": "software-engineering",
+      "target_term": "Spring",
+      "max_courses": 4,
+      "max_credits": 12,
+      "completed_courses": [
+        {
+          "code": "CS 1200",
+          "grade": null,
+          "transfer": false
+        },
+        {
+          "code": "CS 1337",
+          "grade": "A",
+          "transfer": false
+        },
+        {
+          "code": "CS 2305",
+          "grade": "B",
+          "transfer": false
+        },
+        {
+          "code": "CS 2336",
+          "grade": "B",
+          "transfer": false
+        },
+        {
+          "code": "ECS 2390",
+          "grade": null,
+          "transfer": false
+        },
+        {
+          "code": "SE 3306",
+          "grade": "B",
+          "transfer": false
+        },
+        {
+          "code": "SE 3341",
+          "grade": "B",
+          "transfer": false
+        },
+        {
+          "code": "SE 3345",
+          "grade": "B",
+          "transfer": false
+        },
+        {
+          "code": "SE 3354",
+          "grade": "A",
+          "transfer": false
+        }
+      ],
+      "in_progress_courses": []
+    },
+    "user_query": "Can I take SE 4348?",
+    "expected_decision": "Not eligible",
+    "expected_abstain": false,
+    "required_courses_or_rules": []
+  },
+  {
+    "id": "c01",
+    "category": "prereq_chain",
+    "student_profile": {
+      "catalog_year": "2025",
+      "target_program": "computer-science",
+      "target_term": "Fall",
+      "max_courses": 4,
+      "max_credits": 12,
+      "completed_courses": [
+        {
+          "code": "CS 1200",
+          "grade": null,
+          "transfer": false
+        },
+        {
+          "code": "CS 1337",
+          "grade": "B",
+          "transfer": false
+        },
+        {
+          "code": "CS 2305",
+          "grade": "B",
+          "transfer": false
+        }
+      ],
+      "in_progress_courses": []
+    },
+    "user_query": "What do I need before CS 4348?",
+    "expected_decision": "Not eligible",
+    "expected_abstain": false,
+    "required_courses_or_rules": []
+  },
+  {
+    "id": "c02",
+    "category": "prereq_chain",
+    "student_profile": {
+      "catalog_year": "2025",
+      "target_program": "computer-science",
+      "target_term": "Fall",
+      "max_courses": 4,
+      "max_credits": 12,
+      "completed_courses": [
+        {
+          "code": "CS 1200",
+          "grade": null,
+          "transfer": false
+        },
+        {
+          "code": "CS 1337",
+          "grade": "A",
+          "transfer": false
+        },
+        {
+          "code": "CS 2305",
+          "grade": "B",
+          "transfer": false
+        },
+        {
+          "code": "CS 2336",
+          "grade": "B",
+          "transfer": false
+        },
+        {
+          "code": "CS 2340",
+          "grade": "B",
+          "transfer": false
+        },
+        {
+          "code": "ECS 2390",
+          "grade": null,
+          "transfer": false
+        },
+        {
+          "code": "CS 3341",
+          "grade": "B",
+          "transfer": false
+        },
+        {
+          "code": "CS 3345",
+          "grade": "B",
+          "transfer": false
+        },
+        {
+          "code": "CS 3377",
+          "grade": "B",
+          "transfer": false
+        }
+      ],
+      "in_progress_courses": []
+    },
+    "user_query": "What do I need before CS 4390?",
+    "expected_decision": "Eligible",
+    "expected_abstain": false,
+    "required_courses_or_rules": []
+  },
+  {
+    "id": "c03",
+    "category": "prereq_chain",
+    "student_profile": {
+      "catalog_year": "2025",
+      "target_program": "computer-science",
+      "target_term": "Fall",
+      "max_courses": 4,
+      "max_credits": 12,
+      "completed_courses": [
+        {
+          "code": "CS 1200",
+          "grade": null,
+          "transfer": false
+        },
+        {
+          "code": "CS 1337",
+          "grade": "A",
+          "transfer": false
+        },
+        {
+          "code": "CS 2305",
+          "grade": "B",
+          "transfer": false
+        },
+        {
+          "code": "CS 2336",
+          "grade": "B",
+          "transfer": false
+        },
+        {
+          "code": "CS 2340",
+          "grade": "B",
+          "transfer": false
+        },
+        {
+          "code": "ECS 2390",
+          "grade": null,
+          "transfer": false
+        },
+        {
+          "code": "CS 3341",
+          "grade": "B",
+          "transfer": false
+        },
+        {
+          "code": "CS 3345",
+          "grade": "B",
+          "transfer": false
+        },
+        {
+          "code": "CS 3377",
+          "grade": "B",
+          "transfer": false
+        }
+      ],
+      "in_progress_courses": []
+    },
+    "user_query": "What do I need before CS 4337?",
+    "expected_decision": "Eligible",
+    "expected_abstain": false,
+    "required_courses_or_rules": []
+  },
+  {
+    "id": "c04",
+    "category": "prereq_chain",
+    "student_profile": {
+      "catalog_year": "2025",
+      "target_program": "software-engineering",
+      "target_term": "Spring",
+      "max_courses": 4,
+      "max_credits": 12,
+      "completed_courses": [
+        {
+          "code": "CS 1200",
+          "grade": null,
+          "transfer": false
+        },
+        {
+          "code": "CS 1337",
+          "grade": "A",
+          "transfer": false
+        },
+        {
+          "code": "CS 2305",
+          "grade": "B",
+          "transfer": false
+        },
+        {
+          "code": "CS 2336",
+          "grade": "B",
+          "transfer": false
+        },
+        {
+          "code": "ECS 2390",
+          "grade": null,
+          "transfer": false
+        },
+        {
+          "code": "SE 3306",
+          "grade": "B",
+          "transfer": false
+        },
+        {
+          "code": "SE 3341",
+          "grade": "B",
+          "transfer": false
+        },
+        {
+          "code": "SE 3345",
+          "grade": "B",
+          "transfer": false
+        },
+        {
+          "code": "SE 3354",
+          "grade": "A",
+          "transfer": false
+        }
+      ],
+      "in_progress_courses": []
+    },
+    "user_query": "What do I need before SE 4351?",
+    "expected_decision": "Eligible",
+    "expected_abstain": false,
+    "required_courses_or_rules": []
+  },
+  {
+    "id": "c05",
+    "category": "prereq_chain",
+    "student_profile": {
+      "catalog_year": "2025",
+      "target_program": "software-engineering",
+      "target_term": "Spring",
+      "max_courses": 4,
+      "max_credits": 12,
+      "completed_courses": [
+        {
+          "code": "CS 1200",
+          "grade": null,
+          "transfer": false
+        },
+        {
+          "code": "CS 1337",
+          "grade": "A",
+          "transfer": false
+        },
+        {
+          "code": "CS 2305",
+          "grade": "B",
+          "transfer": false
+        },
+        {
+          "code": "CS 2336",
+          "grade": "B",
+          "transfer": false
+        },
+        {
+          "code": "ECS 2390",
+          "grade": null,
+          "transfer": false
+        },
+        {
+          "code": "SE 3306",
+          "grade": "B",
+          "transfer": false
+        },
+        {
+          "code": "SE 3341",
+          "grade": "B",
+          "transfer": false
+        },
+        {
+          "code": "SE 3345",
+          "grade": "B",
+          "transfer": false
+        },
+        {
+          "code": "SE 3354",
+          "grade": "A",
+          "transfer": false
+        }
+      ],
+      "in_progress_courses": []
+    },
+    "user_query": "What do I need before SE 4367?",
+    "expected_decision": "Not eligible",
+    "expected_abstain": false,
+    "required_courses_or_rules": []
+  },
+  {
+    "id": "r01",
+    "category": "program_rule",
+    "student_profile": {
+      "catalog_year": "2025",
+      "target_program": "computer-science",
+      "target_term": null,
+      "max_courses": null,
+      "max_credits": null,
+      "completed_courses": [],
+      "in_progress_courses": []
+    },
+    "user_query": "How many technical elective credit hours does the Computer Science degree require?",
+    "expected_decision": null,
+    "expected_abstain": false,
+    "required_courses_or_rules": []
+  },
+  {
+    "id": "r02",
+    "category": "program_rule",
+    "student_profile": {
+      "catalog_year": "2025",
+      "target_program": "software-engineering",
+      "target_term": null,
+      "max_courses": null,
+      "max_credits": null,
+      "completed_courses": [],
+      "in_progress_courses": []
+    },
+    "user_query": "How many upper-division hours are required for Software Engineering?",
+    "expected_decision": null,
+    "expected_abstain": false,
+    "required_courses_or_rules": []
+  },
+  {
+    "id": "r03",
+    "category": "program_rule",
+    "student_profile": {
+      "catalog_year": "2025",
+      "target_program": "computer-science",
+      "target_term": null,
+      "max_courses": null,
+      "max_credits": null,
+      "completed_courses": [],
+      "in_progress_courses": []
+    },
+    "user_query": "What is the total credit hour requirement for Computer Science?",
+    "expected_decision": null,
+    "expected_abstain": false,
+    "required_courses_or_rules": []
+  },
+  {
+    "id": "r04",
+    "category": "program_rule",
+    "student_profile": {
+      "catalog_year": "2025",
+      "target_program": "computer-science",
+      "target_term": "Fall",
+      "max_courses": 4,
+      "max_credits": 12,
+      "completed_courses": [
+        {
+          "code": "CS 1200",
+          "grade": null,
+          "transfer": false
+        },
+        {
+          "code": "CS 1337",
+          "grade": "A",
+          "transfer": false
+        },
+        {
+          "code": "CS 2305",
+          "grade": "B",
+          "transfer": false
+        },
+        {
+          "code": "CS 2336",
+          "grade": "B",
+          "transfer": false
+        },
+        {
+          "code": "CS 2340",
+          "grade": "B",
+          "transfer": false
+        },
+        {
+          "code": "ECS 2390",
+          "grade": null,
+          "transfer": false
+        },
+        {
+          "code": "CS 3341",
+          "grade": "B",
+          "transfer": false
+        },
+        {
+          "code": "CS 3345",
+          "grade": "B",
+          "transfer": false
+        },
+        {
+          "code": "CS 3377",
+          "grade": "B",
+          "transfer": false
+        }
+      ],
+      "in_progress_courses": []
+    },
+    "user_query": "What requirements do I still have left in my Computer Science degree?",
+    "expected_decision": null,
+    "expected_abstain": false,
+    "required_courses_or_rules": []
+  },
+  {
+    "id": "r05",
+    "category": "program_rule",
+    "student_profile": {
+      "catalog_year": "2025",
+      "target_program": "software-engineering",
+      "target_term": "Spring",
+      "max_courses": 4,
+      "max_credits": 12,
+      "completed_courses": [
+        {
+          "code": "CS 1200",
+          "grade": null,
+          "transfer": false
+        },
+        {
+          "code": "CS 1337",
+          "grade": "A",
+          "transfer": false
+        },
+        {
+          "code": "CS 2305",
+          "grade": "B",
+          "transfer": false
+        },
+        {
+          "code": "CS 2336",
+          "grade": "B",
+          "transfer": false
+        },
+        {
+          "code": "ECS 2390",
+          "grade": null,
+          "transfer": false
+        },
+        {
+          "code": "SE 3306",
+          "grade": "B",
+          "transfer": false
+        },
+        {
+          "code": "SE 3341",
+          "grade": "B",
+          "transfer": false
+        },
+        {
+          "code": "SE 3345",
+          "grade": "B",
+          "transfer": false
+        },
+        {
+          "code": "SE 3354",
+          "grade": "A",
+          "transfer": false
+        }
+      ],
+      "in_progress_courses": []
+    },
+    "user_query": "What requirements do I still have left in my Software Engineering degree?",
+    "expected_decision": null,
+    "expected_abstain": false,
+    "required_courses_or_rules": []
+  },
+  {
+    "id": "n01",
+    "category": "not_in_docs",
+    "student_profile": {
+      "catalog_year": "2025",
+      "target_program": "computer-science",
+      "target_term": "Fall",
+      "max_courses": 4,
+      "max_credits": 12,
+      "completed_courses": [
+        {
+          "code": "CS 1200",
+          "grade": null,
+          "transfer": false
+        },
+        {
+          "code": "CS 1337",
+          "grade": "A",
+          "transfer": false
+        },
+        {
+          "code": "CS 2305",
+          "grade": "B",
+          "transfer": false
+        },
+        {
+          "code": "CS 2336",
+          "grade": "B",
+          "transfer": false
+        },
+        {
+          "code": "CS 2340",
+          "grade": "B",
+          "transfer": false
+        },
+        {
+          "code": "ECS 2390",
+          "grade": null,
+          "transfer": false
+        },
+        {
+          "code": "CS 3341",
+          "grade": "B",
+          "transfer": false
+        },
+        {
+          "code": "CS 3345",
+          "grade": "B",
+          "transfer": false
+        },
+        {
+          "code": "CS 3377",
+          "grade": "B",
+          "transfer": false
+        }
+      ],
+      "in_progress_courses": []
+    },
+    "user_query": "Is CS 4347 offered every Fall?",
+    "expected_decision": null,
+    "expected_abstain": true,
+    "required_courses_or_rules": []
+  },
+  {
+    "id": "n02",
+    "category": "not_in_docs",
+    "student_profile": {
+      "catalog_year": "2025",
+      "target_program": "computer-science",
+      "target_term": "Fall",
+      "max_courses": 4,
+      "max_credits": 12,
+      "completed_courses": [
+        {
+          "code": "CS 1200",
+          "grade": null,
+          "transfer": false
+        },
+        {
+          "code": "CS 1337",
+          "grade": "A",
+          "transfer": false
+        },
+        {
+          "code": "CS 2305",
+          "grade": "B",
+          "transfer": false
+        },
+        {
+          "code": "CS 2336",
+          "grade": "B",
+          "transfer": false
+        },
+        {
+          "code": "CS 2340",
+          "grade": "B",
+          "transfer": false
+        },
+        {
+          "code": "ECS 2390",
+          "grade": null,
+          "transfer": false
+        },
+        {
+          "code": "CS 3341",
+          "grade": "B",
+          "transfer": false
+        },
+        {
+          "code": "CS 3345",
+          "grade": "B",
+          "transfer": false
+        },
+        {
+          "code": "CS 3377",
+          "grade": "B",
+          "transfer": false
+        }
+      ],
+      "in_progress_courses": []
+    },
+    "user_query": "Who teaches CS 4348 this semester?",
+    "expected_decision": null,
+    "expected_abstain": true,
+    "required_courses_or_rules": []
+  },
+  {
+    "id": "n03",
+    "category": "not_in_docs",
+    "student_profile": {
+      "catalog_year": "2025",
+      "target_program": "software-engineering",
+      "target_term": "Spring",
+      "max_courses": 4,
+      "max_credits": 12,
+      "completed_courses": [
+        {
+          "code": "CS 1200",
+          "grade": null,
+          "transfer": false
+        },
+        {
+          "code": "CS 1337",
+          "grade": "A",
+          "transfer": false
+        },
+        {
+          "code": "CS 2305",
+          "grade": "B",
+          "transfer": false
+        },
+        {
+          "code": "CS 2336",
+          "grade": "B",
+          "transfer": false
+        },
+        {
+          "code": "ECS 2390",
+          "grade": null,
+          "transfer": false
+        },
+        {
+          "code": "SE 3306",
+          "grade": "B",
+          "transfer": false
+        },
+        {
+          "code": "SE 3341",
+          "grade": "B",
+          "transfer": false
+        },
+        {
+          "code": "SE 3345",
+          "grade": "B",
+          "transfer": false
+        },
+        {
+          "code": "SE 3354",
+          "grade": "A",
+          "transfer": false
+        }
+      ],
+      "in_progress_courses": []
+    },
+    "user_query": "Which section number should I register for in SE 4351?",
+    "expected_decision": null,
+    "expected_abstain": true,
+    "required_courses_or_rules": []
+  },
+  {
+    "id": "n04",
+    "category": "not_in_docs",
+    "student_profile": {
+      "catalog_year": "2025",
+      "target_program": "computer-science",
+      "target_term": "Fall",
+      "max_courses": 4,
+      "max_credits": 12,
+      "completed_courses": [
+        {
+          "code": "CS 1200",
+          "grade": null,
+          "transfer": false
+        },
+        {
+          "code": "CS 1337",
+          "grade": "A",
+          "transfer": false
+        },
+        {
+          "code": "CS 2305",
+          "grade": "B",
+          "transfer": false
+        },
+        {
+          "code": "CS 2336",
+          "grade": "B",
+          "transfer": false
+        },
+        {
+          "code": "CS 2340",
+          "grade": "B",
+          "transfer": false
+        },
+        {
+          "code": "ECS 2390",
+          "grade": null,
+          "transfer": false
+        },
+        {
+          "code": "CS 3341",
+          "grade": "B",
+          "transfer": false
+        },
+        {
+          "code": "CS 3345",
+          "grade": "B",
+          "transfer": false
+        },
+        {
+          "code": "CS 3377",
+          "grade": "B",
+          "transfer": false
+        }
+      ],
+      "in_progress_courses": []
+    },
+    "user_query": "Can an advisor waive CS 4349 for me?",
+    "expected_decision": null,
+    "expected_abstain": true,
+    "required_courses_or_rules": []
+  },
+  {
+    "id": "n05",
+    "category": "not_in_docs",
+    "student_profile": {
+      "catalog_year": "2025",
+      "target_program": "software-engineering",
+      "target_term": "Spring",
+      "max_courses": 4,
+      "max_credits": 12,
+      "completed_courses": [
+        {
+          "code": "CS 1200",
+          "grade": null,
+          "transfer": false
+        },
+        {
+          "code": "CS 1337",
+          "grade": "A",
+          "transfer": false
+        },
+        {
+          "code": "CS 2305",
+          "grade": "B",
+          "transfer": false
+        },
+        {
+          "code": "CS 2336",
+          "grade": "B",
+          "transfer": false
+        },
+        {
+          "code": "ECS 2390",
+          "grade": null,
+          "transfer": false
+        },
+        {
+          "code": "SE 3306",
+          "grade": "B",
+          "transfer": false
+        },
+        {
+          "code": "SE 3341",
+          "grade": "B",
+          "transfer": false
+        },
+        {
+          "code": "SE 3345",
+          "grade": "B",
+          "transfer": false
+        },
+        {
+          "code": "SE 3354",
+          "grade": "A",
+          "transfer": false
+        }
+      ],
+      "in_progress_courses": []
+    },
+    "user_query": "What time of day is SE 4347 usually scheduled?",
+    "expected_decision": null,
+    "expected_abstain": true,
+    "required_courses_or_rules": []
+  }
+]

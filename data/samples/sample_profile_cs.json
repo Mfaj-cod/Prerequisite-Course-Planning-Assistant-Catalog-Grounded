@@ -1,0 +1,44 @@
+{
+  "catalog_year": "2025",
+  "target_program": "computer-science",
+  "target_term": "Fall",
+  "max_courses": 4,
+  "max_credits": 12,
+  "completed_courses": [
+    {
+      "code": "CS 1200"
+    },
+    {
+      "code": "CS 1337",
+      "grade": "A"
+    },
+    {
+      "code": "CS 2305",
+      "grade": "B"
+    },
+    {
+      "code": "CS 2336",
+      "grade": "B"
+    },
+    {
+      "code": "CS 2340",
+      "grade": "B"
+    },
+    {
+      "code": "ECS 2390"
+    },
+    {
+      "code": "CS 3341",
+      "grade": "B"
+    },
+    {
+      "code": "CS 3345",
+      "grade": "B"
+    },
+    {
+      "code": "CS 3377",
+      "grade": "B"
+    }
+  ],
+  "in_progress_courses": []
+}
